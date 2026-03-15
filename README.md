@@ -36,4 +36,4 @@ Para rodar os exemplos construídos em aula no seu próprio ambiente, você prec
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/ChrisDeSousaFreitas/nivelamento-javascript.git](https://github.com/ChrisDeSousaFreitas/nivelamento-javascript.git)
+   git clone https://github.com/ChrisDeSousaFreitas/nivelamento-javascript.git
